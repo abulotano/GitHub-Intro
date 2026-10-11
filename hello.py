@@ -1,1 +1,3 @@
-print("Hello, World!")
+# hello.py (Updated)
+name = input("Enter your name: ")
+print(f"Hello, {name}!")
